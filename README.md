@@ -28,6 +28,9 @@ A classic Snake Game built using **Python and Pygame**, featuring custom graphic
 ```bash
 pip install pygame
 
-2. Run the game
+2. Run the game:
 python snake_Xenzia.py
 
+## 🎮 Gameplay Preview
+
+![Snake Game](SnakeXenzia2026-04-1722-14-02-ezgif.com-video-to-gif-converter.gif)
