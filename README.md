@@ -25,7 +25,6 @@ A classic Snake Game built using **Python and Pygame**, featuring custom graphic
 ## ▶️ How to Run
 
 1. Install dependencies:
-```bash
 pip install pygame
 
 2. Run the game:
